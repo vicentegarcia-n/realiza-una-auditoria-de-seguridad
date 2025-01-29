@@ -23,8 +23,7 @@ Este proyecto se desarrolló en dos partes con el objetivo de evaluar y mejorar 
 
 - **Framework de Ciberseguridad del NIST** para la evaluación de seguridad.
 - **Estándares de cumplimiento (PCI DSS, GDPR, SOC 1/2)** para asegurar el cumplimiento regulatorio.
-- **Microsoft Excel/Google Sheets** para la creación de listas de control de cumplimiento.
-- **Markdown** para la documentación del proceso.
+- **Microsoft Word** para la creación de listas de control de cumplimiento.
 
 **📌 Aprendizajes clave:**
 
